@@ -64,7 +64,10 @@
         	<!-- 타이틀 -->
         	<div id="title">
         		<ul>
-        			<li>OnsoftDevelope<img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
+        			<li>OnsoftDevelope  <img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
+        		</ul>
+        		<ul>
+        			<li>진준 테스트</li>
         		</ul>
         	</div>
         	<!-- // 타이틀 -->
